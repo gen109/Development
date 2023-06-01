@@ -8,4 +8,19 @@ This repository is a collection of resources related to data science, including 
 It provides code examples and implementation guides for topics such as machine learning, data analysis, and visualization.
 
 
+<h2 align="left">This repository has the following structure:</h2>
+<h3 align="left">◆ Stock Price Visualization USA - 米国株価化可視化アプリ</h3>
+・リポジトリ名: Stock-Price-Visualization-USA
+
+
+・URL: https://github.com/gen109/development/tree/main/02_data-science/Stock-Price-Visualization-USA
+
+
+<h3 align="left">◆ Stock Price Visualization JP - 日経株価化可視化アプリ</h3>
+・リポジトリ名: Stock-Price-Visualization-JP
+
+
+・URL: https://github.com/gen109/development/tree/main/02_data-science/Stock-Price-Visualization-JP
+
+
 
