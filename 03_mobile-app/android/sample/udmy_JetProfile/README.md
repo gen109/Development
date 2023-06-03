@@ -23,7 +23,7 @@
 
 
 「詳細を表示」のボタン押下でその下の趣味＆居住地の表示、非表示/表示を切り替えます。  
-<img width="371" src=https://github.com/gen109/development/tree/main/03_mobile-app/android/sample/udmy_JetProfile/img/img.png?raw=true">
+<img width="371" src="https://github.com/gen109/development/blob/main/03_mobile-app/android/sample/udmy_JetProfile/img/img.png?raw=true">
 
 
 <h2 align="left">学べること</h2>
